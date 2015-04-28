@@ -43,8 +43,8 @@ projects[ding_loan][download][tag] = "7.x-2.0.0"
 
 projects[ding_reservation][type] = "module"
 projects[ding_reservation][download][type] = "git"
-projects[ding_reservation][download][url] = "git@github.com:ding2/ding_reservation.git"
-projects[ding_reservation][download][tag] = "7.x-2.0.0"
+projects[ding_reservation][download][url] = "git@github.com:easyddb/ding_reservation.git"
+projects[ding_reservation][download][tag] = "7.x-2.0.0+easy"
 
 projects[ding_wayf][type] = "module"
 projects[ding_wayf][download][type] = "git"
