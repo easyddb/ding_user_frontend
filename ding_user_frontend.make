@@ -3,7 +3,7 @@ api = 2
 
 ; Projects
 projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.5"
+projects[ctools][version] = "1.9"
 
 projects[date][subdir] = "contrib"
 projects[date][version] = "2.8"
@@ -29,17 +29,17 @@ projects[variable][version] = "2.5"
 projects[ding_bookmark][type] = "module"
 projects[ding_bookmark][download][type] = "git"
 projects[ding_bookmark][download][url] = "git@github.com:ding2/ding_bookmark.git"
-projects[ding_bookmark][download][tag] = "7.x-2.2.0"
+projects[ding_bookmark][download][tag] = "7.x-2.3.1"
 
 projects[ding_debt][type] = "module"
 projects[ding_debt][download][type] = "git"
 projects[ding_debt][download][url] = "git@github.com:ding2/ding_debt.git"
-projects[ding_debt][download][tag] = "7.x-2.2.0"
+projects[ding_debt][download][tag] = "7.x-2.3.1"
 
 projects[ding_loan][type] = "module"
 projects[ding_loan][download][type] = "git"
 projects[ding_loan][download][url] = "git@github.com:ding2/ding_loan.git"
-projects[ding_loan][download][tag] = "7.x-2.2.0"
+projects[ding_loan][download][tag] = "7.x-2.3.1"
 
 projects[ding_reservation][type] = "module"
 projects[ding_reservation][download][type] = "git"
@@ -50,5 +50,5 @@ projects[ding_reservation][download][branch] = "easyddb"
 projects[ding_wayf][type] = "module"
 projects[ding_wayf][download][type] = "git"
 projects[ding_wayf][download][url] = "git@github.com:ding2/ding_wayf.git"
-projects[ding_wayf][download][tag] = "7.x-2.2.0"
+projects[ding_wayf][download][tag] = "7.x-2.3.1"
 
